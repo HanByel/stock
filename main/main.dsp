@@ -90,11 +90,11 @@ LINK32=link.exe
 # PROP Default_Filter "cpp;c;cxx;rc;def;r;odl;idl;hpj;bat"
 # Begin Source File
 
-SOURCE=.\main.c
+SOURCE=.\main.cpp
 # End Source File
 # Begin Source File
 
-SOURCE=.\sThread.cpp
+SOURCE=..\utils\sThread.cpp
 # End Source File
 # End Group
 # Begin Group "Header Files"
@@ -102,12 +102,8 @@ SOURCE=.\sThread.cpp
 # PROP Default_Filter "h;hpp;hxx;hm;inl"
 # Begin Source File
 
-SOURCE=.\sThread.hpp
+SOURCE=..\utils\sThread.hpp
 # End Source File
-# End Group
-# Begin Group "Resource Files"
-
-# PROP Default_Filter "ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe"
 # End Group
 # End Target
 # End Project
