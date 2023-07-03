@@ -6,4 +6,4 @@
 
 https://olidang.tistory.com/44
 
-https://www.qt.io/download-qt-installer
+[https://www.qt.io/download-qt-installer](https://drive.google.com/drive/folders/1Im4LjhluYBWF7Qgdiuis_r7fdZS8Jru9?usp=sharing)https://drive.google.com/drive/folders/1Im4LjhluYBWF7Qgdiuis_r7fdZS8Jru9?usp=sharing
